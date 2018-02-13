@@ -50,11 +50,11 @@ p{
 }
 
 /* Other styles */
-#header a {
+header a {
     color: rgb(152,173,166);
     text-decoration: none;
 }
-#header a:hover {
+header a:hover {
 	color: rgb(111,127,122);
 }
 #featured img {
